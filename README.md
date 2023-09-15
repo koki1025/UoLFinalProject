@@ -9,4 +9,6 @@ The camera system is kind of IoT and the basic structure is followings:
 -	Give alerts when an intruder is reflected in image data
 
 [Brief diagram of the camera system]
+
+
 ![image](https://github.com/koki1025/UoLFinalProject/assets/94494487/f681fa99-33ef-4a07-abfd-61c13ef359d9)
